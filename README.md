@@ -1,5 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
+![Chrome Dinosaur](https://media.giphy.com/media/11XxC0wD3jVSCI/giphy.gif)
 <!--
 **obax/obax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
