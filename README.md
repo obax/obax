@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="ready.png" alt="are you ready?" width="250"/>
 
-<!--
-**obax/obax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, **I'm Olivier**.
 
-Here are some ideas to get you started:
+I’m an indie hacker, software engineer and artist. Currently working on products making building agreements less worrisome, supply chains more transparent, and making communities more sharing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been in various technical roles for almost a decade where I have worked in a variety of projects, within enablement functions, back-end, infra and web/mobile apps roles.
+
+🌱 Start-ups
+
+I have helped build 3 start-ups with some amazing people:
+
+- Democratising legal-tech for all with agreeme [🌍](https://agreeme.app/) [🐦](https://twitter.com/agreemeapp)
+- Facilitating access to the circular economy at sharebee [🌍](https://sharebee.co.uk).
+- Helping large brands detect, explain and act on their ESG risks in their supply chains with bendi [🌍](https://bendi.ai).[🐦](https://twitter.com/bendi_ai)
+
+[Talks about 💬](https://olivier.is/writing): writing, tech for good, devops culture and building solid user experiences
+
+<!--  https://github.com/Ileriayo/markdown-badges  -->
+![*.ts](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![*.clj](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+![*.go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![*.php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
