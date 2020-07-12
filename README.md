@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Olivier
+I am Olivier!
+
 Once a graphic designer, and now an engineer; my passion for systems and products that “just work" and delight, morphing good questions and solid observations into power tools, has driven me to do what I do everyday for the last 5 years.
 
 - 🗞️ I am currently working as a devOps focussed engineer at the [Economist](https://economist.com)
