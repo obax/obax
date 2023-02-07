@@ -8,9 +8,8 @@ I've been in various technical roles for almost a decade where I have worked in 
 
 🌱 Start-ups
 
-I have helped build 3 start-ups with some amazing people:
+I have helped build start-ups with some amazing people:
 
-- Democratising legal-tech for all with agreeme [🌍](https://agreeme.app/) [🐦](https://twitter.com/agreemeapp)
 - Facilitating access to the circular economy at sharebee [🌍](https://sharebee.co.uk).
 - Helping large brands detect, explain and act on their ESG risks in their supply chains with bendi [🌍](https://bendi.ai).[🐦](https://twitter.com/bendi_ai)
 
