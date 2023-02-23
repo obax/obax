@@ -2,7 +2,7 @@
 
 Hey, **I'm Olivier**.
 
-I’m an indie hacker, software engineer and artist. Currently working on products making building agreements less worrisome, supply chains more transparent, and making communities more sharing.
+I’m an indie hacker, get-it-doner, software engineer and artist. Currently working on products making building agreements less worrisome, supply chains more transparent, and making communities more sharing.
 
 I've been in various technical roles for almost a decade where I have worked in a variety of projects, within enablement functions, back-end, infra and web/mobile apps roles.
 
